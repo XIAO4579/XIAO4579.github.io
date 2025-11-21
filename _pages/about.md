@@ -1,3 +1,62 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<style>
+.paper-box {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 24px;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px 0 rgba(0,0,0,0.08);
+  background: #fff;
+  padding: 16px;
+  gap: 20px;
+}
+.paper-box-image {
+  flex: 0 0 220px;
+  position: relative;
+}
+.paper-box-image .badge {
+  position: absolute;
+  left: 0; top: 0;
+  background: #337ab7;
+  color: #fff;
+  padding: 2px 12px;
+  font-size: 14px;
+  border-radius: 8px 0 8px 0;
+  font-weight: 700;
+  z-index: 2;
+}
+.paper-box-image img {
+  width: 100%;
+  border-radius: 8px;
+  margin-top: 22px;
+}
+.paper-box-text {
+  flex: 1;
+  font-size: 0.98em;
+  line-height: 1.45;
+  color: #202124;
+}
+.paper-box-text a {
+  color: #1684fc;
+  font-weight: 600;
+  font-size: 1em;
+}
+.paper-box-text i {
+  color: #555;
+  font-style: italic;
+  font-size: 0.98em;
+}
+</style>
+
 I am currently a first-year Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou), where I am fortunate to be advised by Prof. [Chengwei Qin](https://qcwthu.github.io/). Before joining HKUST(GZ), I obtained my B.S. degree in Automation from Xiamen University. I also work closely with [Dr. Lidong Bing](https://lidongbing.github.io/) and [Dr. Xingxuan Li](https://xingxuanli.github.io/) at [MiroMind.ai](https://miromind.ai/). My research interests lie at the intersection of computer vision and natural language processing. Specifically, I focus on Multimodal Large Language Models (MLLMs), with a particular emphasis on interpretability, complex reasoning, and agentic tool use. My goal is to build more transparent and capable AI systems that can effectively reason through real-world tasks.
 
 News 
