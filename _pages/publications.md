@@ -5,32 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=mOAbFSsAAAAJ&hl=zh-CN}}">my Google Scholar profile</a>.</div>
-{% endif %}
+- **SHIFT: Smoothing Hallucinations by Information Flow Tuning for Multimodal Large Language Models** [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_SHIFT_Smoothing_Hallucinations_by_Information_Flow_Tuning_for_Multimodal_Large_ICCV_2025_paper.html)] 
+  **Sudong Wang**, Yunjian Zhang, Yao Zhu, Enci Liu, Jianing Li, Yanwei Liu, Xiangyang Ji  
+  **ICCV 2025**
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+- **Towards Understanding How Knowledge Evolves in Large Vision-Language Models** [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Towards_Understanding_How_Knowledge_Evolves_in_Large_Vision-Language_Models_CVPR_2025_paper.html)][[Code](https://github.com/XIAO4579/Vlm-interpretability)]  
+  **Sudong Wang**, Yunjian Zhang, Yao Zhu, Jianing Li, Zizhe Wang, Yanwei Liu, Xiangyang Ji  
+  **CVPR 2025**
