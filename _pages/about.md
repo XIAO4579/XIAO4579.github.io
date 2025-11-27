@@ -66,6 +66,8 @@ News
 
 Publications
 ======
+- **LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling** [[Paper](https://arxiv.org/abs/2511.20785)] [[Code](https://github.com/EvolvingLMMs-Lab/LongVT)]<br>
+  Zuhao Yang, **Sudong Wang**, Kaichen Zhang, Keming Wu, Sicong Leng, Yifan Zhang, Chengwei Qin, Shijian Lu, Xingxuan Li, Lidong Bing  <br>
 
 - **SHIFT: Smoothing Hallucinations by Information Flow Tuning for Multimodal Large Language Models** [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_SHIFT_Smoothing_Hallucinations_by_Information_Flow_Tuning_for_Multimodal_Large_ICCV_2025_paper.html)]<br>
   **Sudong Wang**, Yunjian Zhang, Yao Zhu, Enci Liu, Jianing Li, Yanwei Liu, Xiangyang Ji  <br>
