@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Sudong Wang (王苏东)"
+excerpt: "Ph.D. student at HKUST (Guangzhou), advised by Prof. Chengwei Qin. Research on Multimodal Large Language Models (MLLMs): interpretability, complex reasoning, and agentic tool use."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---

@@ -10,9 +10,9 @@
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Sudong Wang"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+title_separator          : "|"
+name                     : &name "Sudong Wang"
+description              : &description "Personal homepage of Sudong Wang (王苏东), Ph.D. student at HKUST (Guangzhou), researching Multimodal Large Language Models, interpretability, complex reasoning, and agentic tool use."
 url                      : https://xiao4579.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -127,7 +127,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "hIwDMVUAKBhD4slUUzkkwGHIfsiN1krdJcyDhg7GcX8"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -140,14 +140,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "my_photo.png"
+og_description           : "Personal homepage of Sudong Wang (王苏东), Ph.D. student at HKUST (Guangzhou), researching Multimodal Large Language Models."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Sudong Wang"
+  links:
+    - "https://scholar.google.com/citations?user=mOAbFSsAAAAJ&hl=zh-CN"
+    - "https://github.com/XIAO4579"
 
 
 # Analytics
