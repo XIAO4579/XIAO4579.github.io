@@ -13,7 +13,7 @@ title                    : "Sudong Wang"
 title_separator          : "-"
 name                     : &name "Sudong Wang"
 description              : &description "Personal homepage of Sudong Wang, Ph.D. student at HKUST (Guangzhou), researching Multimodal Large Language Models, interpretability, complex reasoning, and agentic tool use."
-url                      : https://xiao4579.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://xiao4579.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiao4579/xiao4579.github.io/"
