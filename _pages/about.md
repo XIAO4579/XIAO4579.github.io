@@ -57,7 +57,9 @@ redirect_from:
 }
 </style>
 
-I am currently a first-year Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou), where I am fortunate to be advised by Prof. [Chengwei Qin](https://qcwthu.github.io/). Before joining HKUST(GZ), I obtained my B.S. degree in Automation from Xiamen University. I also work closely with [Dr. Lidong Bing](https://lidongbing.github.io/) and [Dr. Xingxuan Li](https://xingxuanli.github.io/) at [MiroMind.ai](https://miromind.ai/). My research interests lie at the intersection of computer vision and natural language processing. Specifically, I focus on Multimodal Large Language Models (MLLMs), with a particular emphasis on interpretability, complex reasoning, and agentic tool use. My goal is to build more transparent and capable AI systems that can effectively reason through real-world tasks.
+I am currently a first-year Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou), where I am fortunate to be advised by Prof. [Chengwei Qin](https://qcwthu.github.io/). Before joining HKUST(GZ), I obtained my B.S. degree in Automation from Xiamen University. During my research internship at [MiroMind.ai](https://miromind.ai/), I had the privilege of working closely with [Dr. Lidong Bing](https://lidongbing.github.io/) and [Dr. Xingxuan Li](https://xingxuanli.github.io/), an experience that greatly shaped my research perspective. My research interests lie at the intersection of computer vision and natural language processing. Specifically, I focus on Multimodal Large Language Models (MLLMs), with a particular emphasis on interpretability, complex reasoning, and agentic tool use. My goal is to build more transparent and capable AI systems that can effectively reason through real-world tasks.
+
+> **🔍 I am currently looking for research internship opportunities on LLM/MLLM post-training, with a focus on RLVR, agentic tool use, and on-policy distillation (OPD). If you have a relevant opening, please feel free to reach out via [email](mailto:swang886@connect.hkust-gz.edu.cn) — I'd be happy to chat!**
 
 News
 ======
@@ -124,5 +126,5 @@ Educational Background
 
 🧑‍⚖️ Working Experiences
 ---
-* **2025.06 - Present:** AI Scientist Intern, Shanda AI Research Institute & MiroMind.ai, Singapore
+* **2025.06 - 2026.02:** AI Scientist Intern, Shanda AI Research Institute & MiroMind.ai, Singapore
 * **2024.03 - 2024.11:** AI Research Intern, Qiyuan National Lab
