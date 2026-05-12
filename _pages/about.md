@@ -59,23 +59,62 @@ redirect_from:
 
 I am currently a first-year Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou), where I am fortunate to be advised by Prof. [Chengwei Qin](https://qcwthu.github.io/). Before joining HKUST(GZ), I obtained my B.S. degree in Automation from Xiamen University. I also work closely with [Dr. Lidong Bing](https://lidongbing.github.io/) and [Dr. Xingxuan Li](https://xingxuanli.github.io/) at [MiroMind.ai](https://miromind.ai/). My research interests lie at the intersection of computer vision and natural language processing. Specifically, I focus on Multimodal Large Language Models (MLLMs), with a particular emphasis on interpretability, complex reasoning, and agentic tool use. My goal is to build more transparent and capable AI systems that can effectively reason through real-world tasks.
 
-News 
+News
 ======
+* 2026.05 - One paper was accepted by **ICML 2026**.
+* 2026.02 - One paper was accepted by **CVPR 2026**.
 * 2025.06 - One paper was accepted by **ICCV 2025**.
 * 2025.03 - One paper was accepted by **CVPR 2025**.
 
 Publications
 ======
+<sub>(\* denotes equal contribution)</sub>
+
 - **LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling** [[Paper](https://arxiv.org/abs/2511.20785)] [[Code](https://github.com/EvolvingLMMs-Lab/LongVT)]<br>
-  Zuhao Yang, **Sudong Wang**, Kaichen Zhang, Keming Wu, Sicong Leng, Yifan Zhang, Chengwei Qin, Shijian Lu, Xingxuan Li, Lidong Bing  <br>
+  Zuhao Yang\*, **Sudong Wang\***, Kaichen Zhang\*, Keming Wu, Sicong Leng, Yifan Zhang, Chengwei Qin, Shijian Lu, Xingxuan Li, Lidong Bing<br>
+  **CVPR 2026**
+
+- **Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement**<br>
+  Yifan Zhang\*, **Sudong Wang\***, Yangyang Li, Pengfei Xu, Chao Zhou, Xin Ma, Jianing Li, Yao Zhu<br>
+  **ICML 2026**
+
+- **PRISM: Beyond SFT-to-RL — Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL** [[Paper](https://arxiv.org/abs/2604.28123)]<br>
+  **Sudong Wang**, Wenliang Huang, Xinhao Yu, Zuhao Yang, Hao Lin, Keming Wu, Cong Xiao, Chen Chen, Wenjie Wang, et al.<br>
+  *arXiv preprint*
 
 - **SHIFT: Smoothing Hallucinations by Information Flow Tuning for Multimodal Large Language Models** [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_SHIFT_Smoothing_Hallucinations_by_Information_Flow_Tuning_for_Multimodal_Large_ICCV_2025_paper.html)]<br>
-  **Sudong Wang**, Yunjian Zhang, Yao Zhu, Enci Liu, Jianing Li, Yanwei Liu, Xiangyang Ji  <br>
+  **Sudong Wang**, Yunjian Zhang, Yao Zhu, Enci Liu, Jianing Li, Yanwei Liu, Xiangyang Ji<br>
   **ICCV 2025**
 
-- **Towards Understanding How Knowledge Evolves in Large Vision-Language Models** [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Towards_Understanding_How_Knowledge_Evolves_in_Large_Vision-Language_Models_CVPR_2025_paper.html)][[Code](https://github.com/XIAO4579/Vlm-interpretability)]  <br>
-  **Sudong Wang**, Yunjian Zhang, Yao Zhu, Jianing Li, Zizhe Wang, Yanwei Liu, Xiangyang Ji  <br>
+- **Towards Understanding How Knowledge Evolves in Large Vision-Language Models** [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Wang_Towards_Understanding_How_Knowledge_Evolves_in_Large_Vision-Language_Models_CVPR_2025_paper.html)] [[Code](https://github.com/XIAO4579/Vlm-interpretability)]<br>
+  **Sudong Wang**, Yunjian Zhang, Yao Zhu, Jianing Li, Zizhe Wang, Yanwei Liu, Xiangyang Ji<br>
   **CVPR 2025**
+
+### Co-authored Work
+
+- **SpatialBench: Benchmarking Multimodal Large Language Models for Spatial Cognition** [[Paper](https://arxiv.org/abs/2511.21471)]<br>
+  Pengfei Xu, **Sudong Wang**, Yao Zhu, Jianing Li, Guangyi Qi, Yifan Zhang<br>
+  *arXiv preprint*
+
+- **Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling** [[Paper](https://arxiv.org/abs/2604.28185)]<br>
+  Keming Wu, Zuhao Yang, Kaichen Zhang, **Sudong Wang**, Hanzhe Zhu, Sicong Leng, Zhuoran Yang, Qi Wang, et al.<br>
+  *arXiv preprint*
+
+- **Interactive Learning for LLM Reasoning**<br>
+  Hao Lin, Shihao Cao, **Sudong Wang**, Heng Wu, Mingze Li, Liang Yang, Jianjun Zheng, Chengwei Qin<br>
+  **ACL 2026 Findings**
+
+- **AMA: Adaptive Memory via Multi-Agent Collaboration**<br>
+  Wenliang Huang, Zhi Wang, Hao Lin, **Sudong Wang**, Bo Xu, Qing Li, Bin Zhu, Liang Yang, Chengwei Qin<br>
+  **ACL 2026 Findings**
+
+- **Unified-MAS: Universally Generating Domain-Specific Nodes for Empowering Automatic Multi-Agent Systems** [[Paper](https://arxiv.org/abs/2603.21475)]<br>
+  Hao Lin, Yixin Yan, Zhi Wang, Bo Xu, **Sudong Wang**, Wenliang Huang, Rui Zhao, Mingze Li, Chengwei Qin<br>
+  *arXiv preprint*
+
+- **Training Multi-Turn Search Agent via Contrastive Dynamic Branch Sampling** [[Paper](https://arxiv.org/abs/2602.03719)]<br>
+  Yiwei Zhao, Wenliang Huang, **Sudong Wang**, Rui Zhao, Cheng Chen, Yu Shu, Chengwei Qin<br>
+  *arXiv preprint*
 
 Educational Background
 ---
