@@ -10,9 +10,9 @@
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Sudong Wang"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Sudong Wang"
-description              : &description "Personal homepage of Sudong Wang (王苏东), Ph.D. student at HKUST (Guangzhou), researching Multimodal Large Language Models, interpretability, complex reasoning, and agentic tool use."
+description              : &description "Personal homepage of Sudong Wang, Ph.D. student at HKUST (Guangzhou), researching Multimodal Large Language Models, interpretability, complex reasoning, and agentic tool use."
 url                      : https://xiao4579.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/XIAO4579"
+  github           : "XIAO4579"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -141,7 +141,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : "my_photo.png"
-og_description           : "Personal homepage of Sudong Wang (王苏东), Ph.D. student at HKUST (Guangzhou), researching Multimodal Large Language Models."
+og_description           : "Personal homepage of Sudong Wang, Ph.D. student at HKUST (Guangzhou), researching Multimodal Large Language Models."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
