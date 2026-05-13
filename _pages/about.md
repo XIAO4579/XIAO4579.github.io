@@ -73,15 +73,15 @@ Publications
 <sub>(\* denotes equal contribution)</sub>
 
 - **LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling** [[Paper](https://arxiv.org/abs/2511.20785)] [[Project Page](https://evolvinglmms-lab.github.io/LongVT/)] [[Code](https://github.com/EvolvingLMMs-Lab/LongVT)] [[HF Daily](https://huggingface.co/papers/2511.20785)]<br>
-  Zuhao Yang\*, **Sudong Wang\***, Kaichen Zhang\*, Keming Wu, Sicong Leng, Yifan Zhang, Chengwei Qin, Shijian Lu, Xingxuan Li, Lidong Bing<br>
+  Zuhao Yang\*, **Sudong Wang\***, Kaichen Zhang\*, Keming Wu, Sicong Leng, Yifan Zhang, Bo Li, Chengwei Qin, Shijian Lu, Xingxuan Li, Lidong Bing<br>
   **CVPR 2026** &nbsp;·&nbsp; 🤗 **#2 Paper of the Day** on Hugging Face
 
-- **Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement**<br>
-  Yifan Zhang\*, **Sudong Wang\***, Yangyang Li, Pengfei Xu, Chao Zhou, Xin Ma, Jianing Li, Yao Zhu<br>
+- **Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement** [[Paper](https://arxiv.org/abs/2602.00815)]<br>
+  Yunjian Zhang\*, **Sudong Wang\***, Yang Li, Peiran Xu, Conghao Zhou, Xiaoyue Ma, Jianing Li, Yao Zhu<br>
   **ICML 2026**
 
 - **PRISM: Beyond SFT-to-RL — Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL** [[Paper](https://arxiv.org/abs/2604.28123)] [[Project Page](https://xiao4579.github.io/PRISM/)] [[Code](https://github.com/XIAO4579/PRISM)] [[HF Daily](https://huggingface.co/papers/2604.28123)]<br>
-  **Sudong Wang**, Wenliang Huang, Xinhao Yu, Zuhao Yang, Hao Lin, Keming Wu, Cong Xiao, Chen Chen, Wenjie Wang, et al.<br>
+  **Sudong Wang**, Weiquan Huang, Xiaomin Yu, Zuhao Yang, Hehai Lin, Keming Wu, Chaojun Xiao, Chen Chen, Wenxuan Wang, Beier Zhu, Yunjian Zhang, Chengwei Qin<br>
   *arXiv preprint* &nbsp;·&nbsp; 🤗 **#3 Paper of the Day** on Hugging Face
 
 - **SHIFT: Smoothing Hallucinations by Information Flow Tuning for Multimodal Large Language Models** [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_SHIFT_Smoothing_Hallucinations_by_Information_Flow_Tuning_for_Multimodal_Large_ICCV_2025_paper.html)]<br>
@@ -95,27 +95,27 @@ Publications
 ### Co-authored Work
 
 - **SpatialBench: Benchmarking Multimodal Large Language Models for Spatial Cognition** [[Paper](https://arxiv.org/abs/2511.21471)]<br>
-  Pengfei Xu, **Sudong Wang**, Yao Zhu, Jianing Li, Guangyi Qi, Yifan Zhang<br>
+  Peiran Xu, **Sudong Wang**, Yao Zhu, Jianing Li, Gege Qi, Yunjian Zhang<br>
   *arXiv preprint*
 
 - **Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling** [[Paper](https://arxiv.org/abs/2604.28185)]<br>
-  Keming Wu, Zuhao Yang, Kaichen Zhang, **Sudong Wang**, Hanzhe Zhu, Sicong Leng, Zhuoran Yang, Qi Wang, et al.<br>
+  Keming Wu, Zuhao Yang, Kaichen Zhang, Shizun Wang, Haowei Zhu, Sicong Leng, Zhongyu Yang, Qijie Wang, **Sudong Wang**, et al.<br>
   *arXiv preprint*
 
-- **Interactive Learning for LLM Reasoning**<br>
-  Hao Lin, Shihao Cao, **Sudong Wang**, Heng Wu, Mingze Li, Liang Yang, Jianjun Zheng, Chengwei Qin<br>
+- **Interactive Learning for LLM Reasoning** [[Paper](https://arxiv.org/abs/2509.26306)]<br>
+  Hehai Lin, Shilei Cao, **Sudong Wang**, Haotian Wu, Minzhi Li, Linyi Yang, Juepeng Zheng, Chengwei Qin<br>
   **ACL 2026 Findings**
 
-- **AMA: Adaptive Memory via Multi-Agent Collaboration**<br>
-  Wenliang Huang, Zhi Wang, Hao Lin, **Sudong Wang**, Bo Xu, Qing Li, Bin Zhu, Liang Yang, Chengwei Qin<br>
+- **AMA: Adaptive Memory via Multi-Agent Collaboration** [[Paper](https://arxiv.org/abs/2601.20352)]<br>
+  Weiquan Huang, Zixuan Wang, Hehai Lin, **Sudong Wang**, Bo Xu, Qian Li, Beier Zhu, Linyi Yang, Chengwei Qin<br>
   **ACL 2026 Findings**
 
 - **Unified-MAS: Universally Generating Domain-Specific Nodes for Empowering Automatic Multi-Agent Systems** [[Paper](https://arxiv.org/abs/2603.21475)]<br>
-  Hao Lin, Yixin Yan, Zhi Wang, Bo Xu, **Sudong Wang**, Wenliang Huang, Rui Zhao, Mingze Li, Chengwei Qin<br>
+  Hehai Lin, Yu Yan, Zixuan Wang, Bo Xu, **Sudong Wang**, Weiquan Huang, Ruochen Zhao, Minzhi Li, Chengwei Qin<br>
   *arXiv preprint*
 
 - **Training Multi-Turn Search Agent via Contrastive Dynamic Branch Sampling** [[Paper](https://arxiv.org/abs/2602.03719)]<br>
-  Yiwei Zhao, Wenliang Huang, **Sudong Wang**, Rui Zhao, Cheng Chen, Yu Shu, Chengwei Qin<br>
+  Yubao Zhao, Weiquan Huang, **Sudong Wang**, Ruochen Zhao, Chen Chen, Yao Shu, Chengwei Qin<br>
   *arXiv preprint*
 
 Educational Background
