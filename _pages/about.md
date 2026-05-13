@@ -72,17 +72,17 @@ Publications
 ======
 <sub>(\* denotes equal contribution)</sub>
 
-- **LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling** [[Paper](https://arxiv.org/abs/2511.20785)] [[Code](https://github.com/EvolvingLMMs-Lab/LongVT)]<br>
+- **LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling** [[Paper](https://arxiv.org/abs/2511.20785)] [[Project Page](https://evolvinglmms-lab.github.io/LongVT/)] [[Code](https://github.com/EvolvingLMMs-Lab/LongVT)] [[HF Daily](https://huggingface.co/papers/2511.20785)]<br>
   Zuhao Yang\*, **Sudong Wang\***, Kaichen Zhang\*, Keming Wu, Sicong Leng, Yifan Zhang, Chengwei Qin, Shijian Lu, Xingxuan Li, Lidong Bing<br>
-  **CVPR 2026**
+  **CVPR 2026** &nbsp;·&nbsp; 🤗 **#2 Paper of the Day** on Hugging Face
 
 - **Resource-Efficient Reinforcement for Reasoning Large Language Models via Dynamic One-Shot Policy Refinement**<br>
   Yifan Zhang\*, **Sudong Wang\***, Yangyang Li, Pengfei Xu, Chao Zhou, Xin Ma, Jianing Li, Yao Zhu<br>
   **ICML 2026**
 
-- **PRISM: Beyond SFT-to-RL — Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL** [[Paper](https://arxiv.org/abs/2604.28123)]<br>
+- **PRISM: Beyond SFT-to-RL — Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL** [[Paper](https://arxiv.org/abs/2604.28123)] [[Project Page](https://xiao4579.github.io/PRISM/)] [[HF Daily](https://huggingface.co/papers/2604.28123)]<br>
   **Sudong Wang**, Wenliang Huang, Xinhao Yu, Zuhao Yang, Hao Lin, Keming Wu, Cong Xiao, Chen Chen, Wenjie Wang, et al.<br>
-  *arXiv preprint*
+  *arXiv preprint* &nbsp;·&nbsp; 🤗 **#3 Paper of the Day** on Hugging Face
 
 - **SHIFT: Smoothing Hallucinations by Information Flow Tuning for Multimodal Large Language Models** [[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_SHIFT_Smoothing_Hallucinations_by_Information_Flow_Tuning_for_Multimodal_Large_ICCV_2025_paper.html)]<br>
   **Sudong Wang**, Yunjian Zhang, Yao Zhu, Enci Liu, Jianing Li, Yanwei Liu, Xiangyang Ji<br>
