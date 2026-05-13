@@ -80,7 +80,7 @@ Publications
   Yifan Zhang\*, **Sudong Wang\***, Yangyang Li, Pengfei Xu, Chao Zhou, Xin Ma, Jianing Li, Yao Zhu<br>
   **ICML 2026**
 
-- **PRISM: Beyond SFT-to-RL — Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL** [[Paper](https://arxiv.org/abs/2604.28123)] [[Project Page](https://xiao4579.github.io/PRISM/)] [[HF Daily](https://huggingface.co/papers/2604.28123)]<br>
+- **PRISM: Beyond SFT-to-RL — Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL** [[Paper](https://arxiv.org/abs/2604.28123)] [[Project Page](https://xiao4579.github.io/PRISM/)] [[Code](https://github.com/XIAO4579/PRISM)] [[HF Daily](https://huggingface.co/papers/2604.28123)]<br>
   **Sudong Wang**, Wenliang Huang, Xinhao Yu, Zuhao Yang, Hao Lin, Keming Wu, Cong Xiao, Chen Chen, Wenjie Wang, et al.<br>
   *arXiv preprint* &nbsp;·&nbsp; 🤗 **#3 Paper of the Day** on Hugging Face
 
